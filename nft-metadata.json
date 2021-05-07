@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Sentiment",
+      "value" : "Dump It"
+    }, {
+      "trait_type" : "Person",
+      "value" : "BOG"
+    } ],
+    "description" : "He bought????... Dump it!!!",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmXu55sPaofJUX6K9Ctst7DrAJpkQLX3baubDg4EyM3Vba/lmao.jpg",
+    "name" : "BOG"
+}
